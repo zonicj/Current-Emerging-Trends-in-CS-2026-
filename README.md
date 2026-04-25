@@ -1,7 +1,7 @@
 # Current-Emerging-Trends-in-CS-2026-
 CS-370-19668-M01 Current/Emerging Trends in CS 2026 C-2 (Mar - Apr)
 
-** CS 370 – Pirate Intelligent Agent **
+## **CS 370 – Pirate Intelligent Agent**
 For this project, I was given a maze environment (TreasureMaze.py), an experience replay buffer (GameExperience.py), and a notebook scaffold that included the neural network model and helper functions. I was provided a maze environment (TreasureMaze.py), an experience replay buffer (GameExperience.py), and a notebook scaffold that had the neural network model and auxiliary functions for this project.
 
 By transforming mathematical concepts into functional systems, computer scientists resolve practical issues. This endeavor is a reflection of this; the reinforcement learning principles employed here are applicable to robotics, self-driving cars, and game AI. As a computer scientist, I approach problems by understanding the environment and constraints first, then building and testing incrementally rather than all at once.
